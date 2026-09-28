@@ -1,0 +1,13 @@
+.metadata/
+**/target/
+*.class
+**/.settings/
+**/.classpath
+**/.project
+**/.factorypath
+.idea/
+*.iml
+**/node_modules/
+**/dist/
+.angular/
+*.log
